@@ -12,6 +12,7 @@ jobs:
     name: Deploy to GitHub Pages
     runs-on: ubuntu-latest
     permissions:
+      contents: write
       pages: write
     steps:
       - uses: actions/checkout@v3
