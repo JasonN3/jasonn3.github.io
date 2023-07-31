@@ -1,0 +1,8 @@
+{
+  "label": "Active Directory",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Active Directory tasks using Red Hat Enterprise Linux."
+  }
+}

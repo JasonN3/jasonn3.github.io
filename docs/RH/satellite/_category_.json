@@ -1,0 +1,9 @@
+{
+  "label": "Satellite",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Documentation related to Red Hat Satellite."
+  }
+}
+  
