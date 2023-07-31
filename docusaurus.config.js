@@ -6,6 +6,10 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
+  plugins: [require.resolve("@cmfcmf/docusaurus-search-local")],
+
+
+
   title: "Jason Nagin's Docs",
   tagline: '',
   favicon: 'img/favicon.ico',
@@ -76,7 +80,15 @@ const config = {
             position: 'left',
             label: 'Tutorial',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {
+            to: '/blog', 
+            label: 'Blog', 
+            position: 'left'
+          },
+          {
+            type: 'search',
+            position: 'right',
+          },
           {
             href: 'https://github.com/jasonn3/jasonn3.github.io',
             label: 'GitHub',
@@ -92,7 +104,7 @@ const config = {
             items: [
               {
                 label: 'Tutorial',
-                to: '/docs/intro',
+                to: '/docs/category/red-hat',
               },
             ],
           },
