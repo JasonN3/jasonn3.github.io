@@ -15,12 +15,12 @@ This is done using Puppet. A git repository should be configured to store the co
 
 ## Configuring R10k
 My preferred method to manage R10k's configuration is to use Puppet itself. This can be accomplished using the [R10k module](https://forge.puppet.com/modules/puppet/r10k)
-1) Configure your [Puppetfile](GitRepo.md#puppetfile) to include the r10k module by adding the following line.  
+1) Configure your [Puppetfile](puppet/git-repo.md#puppetfile) to include the r10k module by adding the following line.  
   `mod 'puppet-r10k', '10.3.0'`  
   10.3.0 is the latest version as of writing this, but a newer version may be available. Make sure to check the module's page for the latest version.  
   If you would like to ensure you are always using the latest version of the module, `:latest` can be used instead of `'10.3.0'`.
   
-1) Create a [module](GitRepo.md#modules) within your git repo for r10k
+1) Create a [module](puppet/git-repo.md#modules) within your git repo for r10k
 1) Within the `manifests/init.pp` file, add the following code. making sure to replace `*yourclass*` with the module's name and configure your git address:
     ```puppet
     class *yourclass* {

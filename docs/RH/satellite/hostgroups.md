@@ -18,4 +18,4 @@ While creating a host group for each lifecycle step is optional, it is recommend
       - Group1 - This level is where you can create groups of servers (web servers, database servers, etc) so you can group configurations
         - Department1-Group1-Dev - This is the level where you will assign machines. The long name makes it easier to create search bookmarks. The lifecycle step being included in the name allows you to set everything at the group level and ensure nothing is set at the machine level.
 
-If you are utlizing both the Domain and Non-Domain groups, you can ensure the configurations applied to the child groups are the same by using [Config Groups](Configurations.md#config-groups)
+If you are utlizing both the Domain and Non-Domain groups, you can ensure the configurations applied to the child groups are the same by using [Config Groups](config-management.md#config-groups)

@@ -105,7 +105,7 @@ const config = {
             items: [
               {
                 label: 'Docs',
-                to: '/docs/category/red-hat',
+                to: '/',
               },
             ],
           },
