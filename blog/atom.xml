@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://jasonn3.github.io/blog</id>
+    <title>Jason Nagin's Docs Blog</title>
+    <updated>2023-07-31T16:54:09.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://jasonn3.github.io/blog"/>
+    <subtitle>Jason Nagin's Docs Blog</subtitle>
+    <icon>https://jasonn3.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Placeholder for blog posts]]></title>
+        <id>https://jasonn3.github.io/blog/temp-blog-post</id>
+        <link href="https://jasonn3.github.io/blog/temp-blog-post"/>
+        <updated>2023-07-31T16:54:09.000Z</updated>
+        <author>
+            <name>Jason Nagin</name>
+            <uri>https://github.com/jasonn3</uri>
+        </author>
+        <category label="temp" term="temp"/>
+        <category label="placeholder" term="placeholder"/>
+    </entry>
+</feed>
