@@ -58,6 +58,6 @@ Example `metadata.json`:
    `YYYY` is the 4 digit year  
    `MM` is the 2 digit month  
    `DD` is the 2 digit day  
-   `##` is a 2 digit incremental nuber that can be reset whenever the day changes
+   `##` is a 2 digit incremental nuber that can be reset whenever the day changes  
    There are 1's before the month and day because each portion of the version number cannot start with a 0
 

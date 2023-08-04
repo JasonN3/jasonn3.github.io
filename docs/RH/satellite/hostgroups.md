@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'Managing Host Groups'
-sidebar_position: 1
+sidebar_position: 2
 ---
 
 # Managing Host Groups

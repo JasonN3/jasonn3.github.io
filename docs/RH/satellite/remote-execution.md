@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'Remote Execution'
-sidebar_position: 1
+sidebar_position: 6
 ---
 
 # Remote Execution Jobs
