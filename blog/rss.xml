@@ -4,7 +4,7 @@
         <title>Jason Nagin's Docs Blog</title>
         <link>https://jasonn3.github.io/blog</link>
         <description>Jason Nagin's Docs Blog</description>
-        <lastBuildDate>Mon, 31 Jul 2023 20:08:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Aug 2023 16:17:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -12,7 +12,7 @@
             <title><![CDATA[Placeholder for blog posts]]></title>
             <link>https://jasonn3.github.io/blog/temp-blog-post</link>
             <guid>https://jasonn3.github.io/blog/temp-blog-post</guid>
-            <pubDate>Mon, 31 Jul 2023 20:08:23 GMT</pubDate>
+            <pubDate>Fri, 04 Aug 2023 16:17:36 GMT</pubDate>
             <category>temp</category>
             <category>placeholder</category>
         </item>
